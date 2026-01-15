@@ -29,8 +29,6 @@ The same configuration fails in a larger project when combined with:
 mvn spring-boot:run
 ```
 
-> **Note:** Redis is not required to reproduce startup behavior (no requests are sent).
-
 ## ❗ Observed issue in original project
 
 ```
