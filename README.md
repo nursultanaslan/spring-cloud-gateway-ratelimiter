@@ -1,4 +1,4 @@
-# 🧪 Minimal Spring Cloud Gateway – RequestRateLimiter Reproducer
+# Spring Cloud Gateway – RequestRateLimiter Reproducer
 
 This project is a minimal Spring Cloud Gateway application created to reproduce an issue where `RequestRateLimiter` is not found in a larger multi-module setup.
 
